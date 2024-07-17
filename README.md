@@ -54,3 +54,7 @@ The UFC Fight Predictor project aims to analyse UFC fight statistics and video f
 - Develop live data visualization tools to display predictions and analysis in real-time.
 - Ensure the system can handle real-time data flow and visualization during live events.
 
+## Contributors
+This project is a collaborative effort. The team is as follows:
+- Lewis Newnham
+- Mohit Raj Vellore
