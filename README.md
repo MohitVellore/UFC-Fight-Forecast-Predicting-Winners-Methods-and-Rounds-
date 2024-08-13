@@ -9,7 +9,7 @@ As of August 2024, we are excited to announce plans to evolve this project into 
 - Code Availability: Because of this project's commercial nature, the source code is not publicly available at this stage.
 - Development Phase: We are currently in the early stages of development, focusing on design, architecture, and securing the necessary resources.
 
-###Stay Updated:
+### Stay Updated:
 To keep up with the model developments and see predictions of UFC fight cards, follow our blog — coming soon!
   
 ## Contributors
