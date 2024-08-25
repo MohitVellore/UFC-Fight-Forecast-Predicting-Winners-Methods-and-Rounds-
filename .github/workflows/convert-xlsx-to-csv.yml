@@ -27,7 +27,7 @@ jobs:
       run: |
         python -c "
 import pandas as pd
-xlsx_file = 'data/Model prediction logs.xlsx'
+xlsx_file = 'Model prediction logs.xlsx'
 csv_file = xlsx_file.replace('.xlsx', '.csv')
 df = pd.read_excel(xlsx_file)
 df.to_csv(csv_file, index=False)
