@@ -25,7 +25,7 @@ This log serves multiple purposes:
 - Data-Driven Decision Making: Our team uses this data to refine algorithms, adjust strategies, and better understand the dynamics of UFC fight predictions.
 
 ### Accessing the Data:
-For those interested in reviewing our detailed analytics, the CSV file is updated regularly and can be accessed [here](Model prediction logs.xlsx).
+For those interested in reviewing our detailed analytics, the CSV file is updated regularly and can be accessed [here][Model prediction logs.xlsx](https://github.com/MohitVellore/UFC-Fight-Forecast-Predicting-Winners-Methods-and-Rounds-/blob/main/Model%20prediction%20logs.xlsx).
 
 ## Current Status:
 - Code Availability: Because of this project's commercial nature, the source code is not publicly available at this stage.
