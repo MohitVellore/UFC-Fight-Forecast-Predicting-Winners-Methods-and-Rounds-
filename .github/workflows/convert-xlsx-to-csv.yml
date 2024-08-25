@@ -35,6 +35,6 @@ jobs:
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'actions@github.com'
-        git add Model prediction logs.csv
+        git add 'Model prediction logs.csv'
         git commit -m 'Auto-convert Excel to CSV'
         git push
